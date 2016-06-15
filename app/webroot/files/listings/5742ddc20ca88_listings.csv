@@ -1,0 +1,10 @@
+image,country,state,city,title,start_rating,start_reviews,address,neighborhood,phone,website,start_price,hublyz_reviews,hublyz_ratings,hublyz_price,Mon,Tue,Wed,Thu,Fri,Sat,Sun
+default,United States Of America,LA,New Orleans,Happy Hookah,3,2,"913 Decatur St New Orleans , LA  70130",French Quarter,(504) 304-5840,,$$$,,,,,,,,,,
+default,India,LA,Orleans,Jacks Hookah Cafe,0.5,5,"712 Terry Pkwy Gretna , LA  70056",Terrytown,(504) 392-2696,,$$$,,,,,,,,,,
+default,United States Of America,LA,New Orleans,Happy Hookah 2,-0.5,2,"913 Decatur St. New Orleans , LA  70116",French Quarter,(504) 304-5840,,,,,,10:00 am-11:00 pm,10:00 am-11:00 pm,10:00 am-11:00 pm,10:00 am-11:00 pm,10:00 am-11:00 pm,10:00 am-11:30 pm,10:00 am-10:30 pm
+default,United States Of America,NJ,Newark,Prime Hookah,2.5,2,"460 Broadway Bayonne , NJ  07002",,(201) 250-8011,http://www.primehookah.com,$$,,,,10:30 am-7:30 pm,10:30 am-7:30 pm,10:30 am-7:30 pm,10:30 am-7:30 pm,10:30 am-3:00 pm,Closed,12:00 pm-3:00 pm
+default,United States Of America,pe,Atlanta,The Blue Caterpillar Hookah Lounge,4.5,4,"13 E Main St Buford , GA  30518",,(678) 541-5200,http://www.tbchookah.com/,$$$,,,,6:00 pm-12:00 am,6:00 pm-12:00 am,Closed,6:00 pm-2:00 am,6:00 pm-2:00 am,6:00 pm-2:00 am,6:00 pm-12:00 am
+default,United States Of America,CA,San Diego,Snackbar,5,1,"Otay Ranch San Diegp , CA  91913",Chula Vista,(619) 555-6969,,$$,,,,,,,,,,
+default,United States Of America,RI,Providence,Cafe 55 Hookah Lounge,4.5,10,"55 Douglas Pike Smithfield , RI  02917",,(401) 597-0302,,$$$,,,,Closed,8:00 pm-1:00 am,8:00 pm-1:00 am,8:00 pm-1:00 am,8:00 pm-1:00 am,8:00 pm-1:00 am,8:00 pm-1:00 am
+default,United States Of America,RI,Providence,Hookah Boutique,0,7,"319 Pocasset Ave Providence , RI  02909",Silver Lake,(401) 996-1610,,,,,,12:00 pm-9:00 pm,12:00 pm-9:00 pm,12:00 pm-9:00 pm,12:00 pm-9:00 pm,12:00 pm-10:00 pm,12:00 pm-10:00 pm,12:00 pm-6:00 pm
+default,United States Of America,si,Providence,Providence Hookah,0,7,"112 Reservoir Ave Providence , RI  02907",Resevoir,(401) 219-3952,,,,,,,,,,,,
